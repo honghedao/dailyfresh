@@ -15,7 +15,7 @@ jieba==0.39
 kombu==4.2.0
 more-itertools==7.2.0
 mutagen==1.43.0
-Pillow==6.2.1
+Pillow==9.3.0
 pycryptodomex==3.9.4
 PyMySQL==0.9.3
 python-alipay-sdk==1.10.1
